@@ -1,0 +1,6 @@
+Przygotuj spis treści dla pracy dyplomowej dotyczącej aplikacji kinowej z dostępem do filmów w trybie online. Aplikacja dodatkowo posiada takie funkcje jak czat z innymi użytkownikami oraz zakładkę z krótkimi filmikami innych użytkowników (coś na wzór aplikacji TikTok). Została ona stworzona przy pomocy narzędzia Flutterflow w połączeniu z Firebase jako baza danych. Główne punkty spisu treści znajdują się poniżej. Do każdego z nich dopisz po 3-5 podpunktów. 
+1. Charakterystyka problematyki dostępu do filmów w trybie online wraz z przykładowymi aplikacjami kinowymi.
+2. Opis narzędzi służących do opracowania aplikacji kinowej z dostępem do filmów w trybie online.
+3. Projekt Internetowej aplikacji kinowej umożliwiającej dostęp do filmów i ich odtwarzanie.
+4. Realizacja programu komputerowego i testowanie jego funkcjonowania.
+5. Uwagi i wnioski.
