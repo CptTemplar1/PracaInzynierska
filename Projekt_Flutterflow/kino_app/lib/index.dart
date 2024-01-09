@@ -1,0 +1,89 @@
+// Export pages
+export '/pages/kino/ticket_poster_page/ticket_poster_page_widget.dart'
+    show TicketPosterPageWidget;
+export '/pages/kino/seat_selection_page/seat_selection_page_widget.dart'
+    show SeatSelectionPageWidget;
+export '/pages/kino/ticket_details/ticket_details_widget.dart'
+    show TicketDetailsWidget;
+export '/pages/streaming/streaming_transaction_summay/streaming_transaction_summay_widget.dart'
+    show StreamingTransactionSummayWidget;
+export '/pages/kino/ticket_transaction_summay/ticket_transaction_summay_widget.dart'
+    show TicketTransactionSummayWidget;
+export '/pages/account_and_auth/login_page/login_page_widget.dart'
+    show LoginPageWidget;
+export '/pages/account_and_auth/register_page/register_page_widget.dart'
+    show RegisterPageWidget;
+export '/pages/account_and_auth/delete_account_page/delete_account_page_widget.dart'
+    show DeleteAccountPageWidget;
+export '/pages/account_and_auth/personal_data_page/personal_data_page_widget.dart'
+    show PersonalDataPageWidget;
+export '/pages/account_and_auth/forgotten_password_page/forgotten_password_page_widget.dart'
+    show ForgottenPasswordPageWidget;
+export '/pages/inne/hello_page/hello_page_widget.dart' show HelloPageWidget;
+export '/pages/account_and_auth/password_change_page/password_change_page_widget.dart'
+    show PasswordChangePageWidget;
+export '/pages/kino/ticket_movie_info_page/ticket_movie_info_page_widget.dart'
+    show TicketMovieInfoPageWidget;
+export '/pages/streaming/streaming_movie_info_page/streaming_movie_info_page_widget.dart'
+    show StreamingMovieInfoPageWidget;
+export '/pages/inne/easter_egg_page/easter_egg_page_widget.dart'
+    show EasterEggPageWidget;
+export '/pages/discount_page/discount_page_widget.dart' show DiscountPageWidget;
+export '/pages/streaming/watch_streaming_page/watch_streaming_page_widget.dart'
+    show WatchStreamingPageWidget;
+export '/pages/main_page/main_page_widget.dart' show MainPageWidget;
+export '/pages/kino/ticket_info_page/ticket_info_page_widget.dart'
+    show TicketInfoPageWidget;
+export '/pages/streaming/streaming_check_poster_page/streaming_check_poster_page_widget.dart'
+    show StreamingCheckPosterPageWidget;
+export '/pages/shopping_transaction_page/shopping_transaction_page_widget.dart'
+    show ShoppingTransactionPageWidget;
+export '/pages/shorts/user_account_page/user_account_page_widget.dart'
+    show UserAccountPageWidget;
+export '/pages/shorts/add_video_page/add_video_page_widget.dart'
+    show AddVideoPageWidget;
+export '/pages/shorts/create_account_page/create_account_page_widget.dart'
+    show CreateAccountPageWidget;
+export '/pages/shorts/your_account_page/your_account_page_widget.dart'
+    show YourAccountPageWidget;
+export '/pages/shorts/subscribed_users_page/subscribed_users_page_widget.dart'
+    show SubscribedUsersPageWidget;
+export '/pages/shorts/your_videos_page/your_videos_page_widget.dart'
+    show YourVideosPageWidget;
+export '/pages/shorts/user_videos_page/user_videos_page_widget.dart'
+    show UserVideosPageWidget;
+export '/pages/shorts/your_selected_video_page/your_selected_video_page_widget.dart'
+    show YourSelectedVideoPageWidget;
+export '/pages/shorts_page/shorts_page_widget.dart' show ShortsPageWidget;
+export '/pages/shorts/user_selected_video_page/user_selected_video_page_widget.dart'
+    show UserSelectedVideoPageWidget;
+export '/pages/help/help_page/help_page_widget.dart' show HelpPageWidget;
+export '/pages/help/movies_help_subpage/movies_help_subpage_widget.dart'
+    show MoviesHelpSubpageWidget;
+export '/pages/help/shopping_help_subpage/shopping_help_subpage_widget.dart'
+    show ShoppingHelpSubpageWidget;
+export '/pages/help/discount_help_subpage/discount_help_subpage_widget.dart'
+    show DiscountHelpSubpageWidget;
+export '/pages/help/shorts_help_subpage/shorts_help_subpage_widget.dart'
+    show ShortsHelpSubpageWidget;
+export '/pages/help/drawer_help_subpage/drawer_help_subpage_widget.dart'
+    show DrawerHelpSubpageWidget;
+export '/pages/inne/transaction_info_page/transaction_info_page_widget.dart'
+    show TransactionInfoPageWidget;
+export '/pages/chat/chat_page/chat_page_widget.dart' show ChatPageWidget;
+export '/pages/all_chats_page/all_chats_page_widget.dart'
+    show AllChatsPageWidget;
+export '/pages/chat/invite_user_page/invite_user_page_widget.dart'
+    show InviteUserPageWidget;
+export '/pages/chat/create_group_chat_page/create_group_chat_page_widget.dart'
+    show CreateGroupChatPageWidget;
+export '/pages/chat/add_chat_users_page/add_chat_users_page_widget.dart'
+    show AddChatUsersPageWidget;
+export '/pages/chat/remove_chat_users_page/remove_chat_users_page_widget.dart'
+    show RemoveChatUsersPageWidget;
+export '/pages/help/chats_help_subpage/chats_help_subpage_widget.dart'
+    show ChatsHelpSubpageWidget;
+export '/pages/help/utility_screens_help_subpage/utility_screens_help_subpage_widget.dart'
+    show UtilityScreensHelpSubpageWidget;
+export '/pages/inne/easter_egg_puzzle_page/easter_egg_puzzle_page_widget.dart'
+    show EasterEggPuzzlePageWidget;

@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "382244426803",
+    "project_id": "flutterkino",
+    "storage_bucket": "flutterkino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382244426803:android:6e4540a199642b194fbf46",
+        "android_client_info": {
+          "package_name": "com.kaczor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382244426803-54up50isqo3u9jevhjcgac1uvdsf0mf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1n59Vgozs22TZAuf7IotBpMLmAPuAWMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382244426803-54up50isqo3u9jevhjcgac1uvdsf0mf1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382244426803-ipfr83t434u4o9t03cmmnialeg820olj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaluzinski.kaczor.kalarus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382244426803:android:172113bb7a0a52124fbf46",
+        "android_client_info": {
+          "package_name": "com.kaluzinski.kaczor.kalarus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382244426803-iqubnf3khbri8fg2hukggu9esglaa7u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaluzinski.kaczor.kalarus",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "382244426803-54up50isqo3u9jevhjcgac1uvdsf0mf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1n59Vgozs22TZAuf7IotBpMLmAPuAWMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382244426803-54up50isqo3u9jevhjcgac1uvdsf0mf1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382244426803-ipfr83t434u4o9t03cmmnialeg820olj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaluzinski.kaczor.kalarus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
